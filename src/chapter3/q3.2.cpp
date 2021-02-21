@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-//章末問題3.1
+//章末問題3.2
 //与えられたN個の整数からa[i] = vをいくつ含むか求める。
 
 int main()
